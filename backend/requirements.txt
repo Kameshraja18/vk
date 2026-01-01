@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+Pillow
+numpy
+opencv-python
+scikit-image
+scipy
+pypdfium2
+paddleocr
+paddlepaddle
