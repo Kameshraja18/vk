@@ -6,13 +6,10 @@ import {
   ShieldAlert,
   FileSearch,
   Info,
-  CheckCircle2,
-  AlertTriangle,
   Maximize2,
   RefreshCcw,
   Zap,
-  Activity,
-  FileText
+  Activity
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
