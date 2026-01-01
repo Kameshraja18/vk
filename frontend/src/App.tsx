@@ -9,7 +9,7 @@ import {
   Maximize2,
   RefreshCcw,
   Zap,
-  Activity
+  Activity,
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
